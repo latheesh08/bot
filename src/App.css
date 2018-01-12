@@ -4,14 +4,23 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+  background-color: white !important;
+  height: 150px !important;
+  padding: 20px !important;
+  color: white !important;
+  position :relative !important;
+}
+
+.App .header {
+    height: 50px !important;
+    visibility: visible !important;
+    padding: 0px 0 5px !important;
+    border-radius: 5px !important;
+    /*animation: App-header-move 1s infinite;
+    -webkit-animation: App-header-move 1s infinite;*/
 }
 
 .App-title {
@@ -25,4 +34,109 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+/* Standard syntax */
+@keyframes App-header-move {
+  50%  {height: 150px;}
+}
+
+.App .boxShadow {
+    border-width: 2px !important;
+    border-radius: 2px !important;
+    border-bottom-width: 0 !important;
+    box-shadow: #2864e7 !important;
+    -moz-box-shadow: 0px 0px 4px 2px rgba(59,220,237,.5) !important;
+    -webkit-box-shadow: 0px 0px 4px 2px rgba(59,220,237,.5) !important;
+    border-radius: 10px !important;
+    padding: 4px 10px !important;
+    margin: auto !important;
+    background: #002730 !important;
+    margin-bottom: 10px !important;
+    cursor: pointer !important;
+}
+
+.App .mainButtonDiv {
+    margin: auto !important;
+    color: white !important;
+}
+
+.App a:-webkit-any-link {
+    color: greenyellow !important;
+    font-weight: bold !important;
+    font-size: 15px;
+}
+.App a:hover {
+    color: blueviolet !important;
+    background-color: transparent !important;
+    text-decoration: underline !important;
+}
+.App .conversation-container {
+    border: 1px black !important;
+    border-radius: 0px !important;
+    margin-right: 19% !important;
+    margin-bottom: -15% !important;
+}
+.App .welcome {
+    background: #002730;
+    border: 2px solid rgba(59,220,237,.5) !important;
+    color: white !important;
+    padding: 5px !important;
+    text-align: left !important;
+    word-break: break-all !important;
+}
+.App .messages-container {
+    background-image: url("./images/AI-BG-new.png");
+}
+
+.App .client {
+    background-color: #002730 !important;
+    border: 2px solid rgba(59,220,237,.5) !important;
+    color: white !important;
+    padding: 5px !important;
+    border-radius: 0 !important;
+}
+
+.App .ratingsubdiv {
+    display: inline-table;
+}
+.message > .response {
+    border: 2px solid rgba(59,220,237,.5) !important;
+    color: white !important;
+    border-radius: 0px !important;
+    word-wrap: break-word !important;
+    background: #002730;
+}
+
+.conversation-container > .header {
+    background-color: white !important;
+    color: black !important;
+}
+.widget-container {
+    max-width: 400px !important;
+}
+.rating {
+    background-color: #002730;
+    padding: 15px !important;
+    color: white !important;
+    border: 2px solid rgba(59,220,237,.5) !important;
+}
+
+.snippet {
+    background-color: #002730;
+    color: white !important;
+    border-radius: 0px !important;
+    border: 2px solid rgba(59,220,237,.5) !important;
+    font-size: 15px !important;
+}
+
+.snippet-details {
+    word-wrap: break-word !important;
+    border-left: none !important;
+    padding-left: 0px !important;
+    font-weight: bold !important;
+}
+
+.App .launcher {
+    z-index: -1 !important;
 }

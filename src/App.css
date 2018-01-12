@@ -18,7 +18,7 @@
     height: 50px !important;
     visibility: visible !important;
     padding: 0px 0 5px !important;
-    border-radius: 5px !important;
+    border-radius: 0px !important;
     /*animation: App-header-move 1s infinite;
     -webkit-animation: App-header-move 1s infinite;*/
 }
@@ -139,4 +139,8 @@
 
 .App .launcher {
     z-index: -1 !important;
+}
+
+.App .sender {
+    border-radius: 0px !important;
 }

@@ -1,0 +1,117 @@
+Android Developer[id]35679[heading]
+
+3-5 years of experience in building Native Android applications on phones and tablets.
+Must have previous experience in building data driven mobile applications with offline capabilities[more]
+Have built applications with slick animations.
+Strong OO design and programming skills in Java.
+Working experience with the Android Studio and Android SDK/Cordova
+Good Knowledge of REST API’s.
+Good understanding of ANRs and how to prevent them.
+Understanding of Gradle and how to use it for building with support/third party libraries.
+Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus.
+Experience in Integrating Google API, Maps, Calendar.
+Strong Knowledge and working experience on Push Notifications.
+Experience of working with localization.
+Experience with Jenkins.
+Good Knowledge in Javascript.
+Experience with Subversion or GIT
+
+[job]
+
+PHP Developer[id]47653[heading]
+
+Understanding of Gradle and how to use it for building with support/third party libraries.
+Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus[more]
+3-5 years of experience in building Native Android applications on phones and tablets.
+Must have previous experience in building data driven mobile applications with offline capabilities.
+Have built applications with slick animations.
+Strong OO design and programming skills in Java.
+Working experience with the Android Studio and Android SDK/Cordova
+Good Knowledge of REST API’s.
+Good understanding of ANRs and how to prevent them.
+Experience in Integrating Google API, Maps, Calendar.
+Strong Knowledge and working experience on Push Notifications.
+Experience of working with localization.
+Experience with Jenkins.
+Good Knowledge in Javascript.
+Experience with Subversion or GIT
+
+[job]
+
+Java Developer[id]81267[heading]
+
+Strong OO design and programming skills in Java.
+Working experience with the Android Studio and Android SDK/Cordova[more]
+Understanding of Gradle and how to use it for building with support/third party libraries.
+Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus.
+3-5 years of experience in building Native Android applications on phones and tablets.
+Must have previous experience in building data driven mobile applications with offline capabilities.
+Have built applications with slick animations.
+Good Knowledge of REST API’s.
+Good understanding of ANRs and how to prevent them.
+Experience in Integrating Google API, Maps, Calendar.
+Strong Knowledge and working experience on Push Notifications.
+Experience of working with localization.
+Experience with Jenkins.
+Good Knowledge in Javascript.
+Experience with Subversion or GIT
+
+[job]
+
+React Developer[id]23239[heading]
+
+3-5 years of experience in building Native Android applications on phones and tablets.
+Must have previous experience in building data driven mobile applications with offline capabilities[more]
+Have built applications with slick animations.
+Strong OO design and programming skills in Java.
+Working experience with the Android Studio and Android SDK/Cordova
+Good Knowledge of REST API’s.
+Good understanding of ANRs and how to prevent them.
+Understanding of Gradle and how to use it for building with support/third party libraries.
+Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus.
+Experience in Integrating Google API, Maps, Calendar.
+Strong Knowledge and working experience on Push Notifications.
+Experience of working with localization.
+Experience with Jenkins.
+Good Knowledge in Javascript.
+Experience with Subversion or GIT
+
+[job]
+
+UI Developer[id]37943[heading]
+
+Understanding of Gradle and how to use it for building with support/third party libraries.
+Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus[more]
+3-5 years of experience in building Native Android applications on phones and tablets.
+Must have previous experience in building data driven mobile applications with offline capabilities.
+Have built applications with slick animations.
+Strong OO design and programming skills in Java.
+Working experience with the Android Studio and Android SDK/Cordova
+Good Knowledge of REST API’s.
+Good understanding of ANRs and how to prevent them.
+Experience in Integrating Google API, Maps, Calendar.
+Strong Knowledge and working experience on Push Notifications.
+Experience of working with localization.
+Experience with Jenkins.
+Good Knowledge in Javascript.
+Experience with Subversion or GIT
+
+[job]
+
+IOS Developer[id]86154[heading]
+
+Strong OO design and programming skills in Java.
+Working experience with the Android Studio and Android SDK/Cordova[more]
+Understanding of Gradle and how to use it for building with support/third party libraries.
+Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus.
+3-5 years of experience in building Native Android applications on phones and tablets.
+Must have previous experience in building data driven mobile applications with offline capabilities.
+Have built applications with slick animations.
+Good Knowledge of REST API’s.
+Good understanding of ANRs and how to prevent them.
+Experience in Integrating Google API, Maps, Calendar.
+Strong Knowledge and working experience on Push Notifications.
+Experience of working with localization.
+Experience with Jenkins.
+Good Knowledge in Javascript.
+Experience with Subversion or GIT

@@ -1,0 +1,72 @@
+        if (response.result.metadata.intentName == "Experienced-custom") {
+            // details = JSON.parse(response.result.fulfillment.speech);
+            console.log(response.result.fulfillment.speech);
+            
+            if(details.length === 1){
+            var suggestionView = () => {
+                return (
+                    <div className = "jobs" id = "jobs"> 
+                    <Slider {...settings1}>
+                    {details.map(details => (
+                                    <div>
+                            <div className="jobtitle">{details.title}</div>
+                            <img className='image' src={card1} onClick={() => { this.handlejob() }} />
+                           <div className="text-block">
+                           <li>{details.description1}</li>
+                           <li>{details.description2}</li>
+                           </div>
+                        </div>
+                                ))}
+                         </Slider>
+                    </div>
+                )
+            }
+            renderCustomComponent(suggestionView);
+        }
+       else if(details.length === 2){
+            var suggestionView = () => {
+                return (
+                    <div className = "jobs" id = "jobs"> 
+                    <Slider {...settings2}>
+                    {details.map(details => (
+                                    <div>
+                            <div className="jobtitle">{details.title}</div>
+                            <img className='image' src={card1} onClick={() => { this.handlejob() }} />
+                            <div className="text-block">
+                           <li>{details.description1}</li>
+                           <li>{details.description2}</li>
+                           </div>
+                        </div>
+                                ))}
+                         </Slider>
+                    </div>
+                )
+            }
+            renderCustomComponent(suggestionView);
+        }
+        else{
+            var suggestionView = () => {
+                return (
+                    <div className = "jobs" id = "jobs"> 
+                    <Slider {...settings3}>
+                    {details.map(details => (
+                                    <div>
+                            <div className="jobtitle">{details.title}</div>
+                            <img className='image' src={card1} onClick={() => { this.handlejob() }} />
+                            <div className="text-block">
+                            <li>{details.description1}</li>
+                           <li>{details.description2}</li>
+                           </div>
+                           <div className="moredetails" onClick={() => { 
+                             
+                               this.showModal() }}>
+                      ..more</div>
+                        </div>
+                                ))}
+                         </Slider>
+                    </div>
+                )
+            }
+            renderCustomComponent(suggestionView);   
+        }
+    }

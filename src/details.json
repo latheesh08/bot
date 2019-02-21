@@ -1,0 +1,44 @@
+{
+    "jobdetails": [
+        {
+            "title": "Android Developer",
+            "description1": "3-5 years of experience in building Native Android applications on phones and tablets",
+            "description2": "Have experience in working with syncing offline and online databases with CouchDB/SQLite will be a plus."
+        },
+        {
+            "title": "Job Title 2",
+            "description1": "Experience with Jenkins.",
+            "description2": "Good Knowledge in Javascript, Experience with Subversion or GIT."
+        },
+        {
+            "title": "Job Title 3",
+            "description1": "Experience in Integrating Google API, Maps, Calendar.",
+            "description2": "Strong Knowledge and working experience on Push Notifications."
+        },
+        {
+            "title": "Job Title 4",
+            "description1": "Good understanding of ANRs and how to prevent them.",
+            "description2": "Understanding of Gradle and how to use it for building with support/third party libraries."
+        },
+        {
+            "title": "Job Title 5",
+            "description1": "Working experience with the Android Studio and Android SDK/Cordova",
+            "description2": " Good Knowledge of REST API’s."
+        },
+        {
+            "title": "Job Title 6",
+            "description1": "Have built applications with slick animations.",
+            "description2": "Strong OO design and programming skills in Java."
+        },
+        {
+            "title": "Job Title 7",
+            "description1": "Good Knowledge in Javascript",
+            "description2": "Experience with Subversion or GIT."
+        },
+        {
+            "title": "Job Title 8",
+            "description1": "Experience of working with localization.",
+            "description2": "Experience with Jenkins."
+        }
+    ]
+}
